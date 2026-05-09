@@ -1,6 +1,6 @@
 # Project 1 — Todo API
 
-In-memory CRUD API built with FastAPI. First project in the [FastAPI Mastery Roadmap](../fastapi-roadmap-notion.md).
+In-memory CRUD API built with FastAPI.
 
 ## Endpoints
 
